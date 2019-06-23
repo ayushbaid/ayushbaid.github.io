@@ -13,7 +13,7 @@ A graphical abstract is hosted [here](./iitb_thesis/Graphical_abstract.pdf). We 
 
 
 
-## Projects
+## Academic Projects
 
 I have done projects in areas like computer vision, medical image processing, and machine learning.
 
@@ -21,4 +21,14 @@ Here are some of the work I have done:
 
 1. Medical Image Processing: studied various imaging techniques like CT-scan and MRI, and implemented algorithms to denoise, segment, etc. ([Summary](https://ayushbaid.github.io/mip_iitb/))
 2. Computer Vision: learnt and implemented algorithms for image registration, segmentation, classification, and basic compressed sensing techniques. ([Summary](https://ayushbaid.github.io/cv_iitb/))
+
+
+
+## Data analytics
+
+Data is the key to unlock new insights, and validate hypothesis we might be holding since a long time.
+
+Currently, I am working on characterising the competitiveness of different football leagues.  European football has five big leagues: English, Spanish, German, French, and Italian. You can find the work [here](https://ayushbaid.github.io/football_stats).
+
+
 
