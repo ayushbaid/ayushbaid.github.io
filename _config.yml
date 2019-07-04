@@ -3,3 +3,6 @@ title: Ayush Baid
 description: Personal Website
 plugins:
   - jekyll-seo-tag
+  
+webmaster_verifications:
+  google: gtpTDwhx8zNThdl3XEQuA8VBSmjqWVuGYrE0Um841A
