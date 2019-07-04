@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Ayush Baid
 description: Personal Website
+plugins:
+  - jekyll-seo-tag
