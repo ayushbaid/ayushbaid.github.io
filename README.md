@@ -1,11 +1,11 @@
-## Bio
-I have been working at Goldman Sachs for about 2 years. I received my bachelor's and master's degree in electrical engineering from [Indian Institute Of Technology Bombay](https://www.iitb.ac.in/).
+# About me
+I am an incoming graduate student at Georgia Tech, enrolled in MS in computer science program. I worked at Goldman Sachs for 2 years. I received my bachelor's and master's degree in electrical engineering from [Indian Institute Of Technology Bombay](https://www.iitb.ac.in/).
 
 You can find my resume [here](https://ayushbaid.github.io/resume/cv_long.pdf).
 
-## Research
+# Research
 
-#### Enhancement of Laparoscopy images
+## Enhancement of Laparoscopy images
 
 I was a part of the [ViGIL](https://www.cse.iitb.ac.in/graphics/doku.php?id=start) research group at IIT Bombay, where I pursued my thesis under the guidance of  [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash/) and [Prof. Shabbir Merchant](https://www.ee.iitb.ac.in/wiki/faculty/merchant/). We worked on removing random noise, surgical smoke, and speckles from the laparoscopy images. These corruptions perturb the texture and color of the organs, and make the surgical experience unpleasant, and reduce the efficacy of automated algorithms. We modelled the system using Markov random fields, and designed potential functions using color distribution priors and dictionary priors (to model texture). We used variational Bayesian factorization to make the optimization tractable using expectation-maximization (EM) algorithm. 
 
@@ -13,7 +13,7 @@ A graphical abstract is hosted [here](./iitb_thesis/Graphical_abstract.pdf). We 
 
 
 
-## Academic Projects
+# Academic Projects
 
 I have done projects in areas like computer vision, medical image processing, and machine learning.
 
@@ -24,7 +24,7 @@ Here are some of the work I have done:
 
 
 
-## Data analytics
+# Data analytics
 
 Data is the key to unlock new insights, and validate hypothesis we might be holding since a long time.
 
