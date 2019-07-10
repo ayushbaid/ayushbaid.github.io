@@ -1,4 +1,3 @@
-# About me
 I am an incoming graduate student at Georgia Tech, enrolled in MS in computer science program. I worked at Goldman Sachs for 2 years. I received my bachelor's and master's degree in electrical engineering from [Indian Institute Of Technology Bombay](https://www.iitb.ac.in/).
 
 You can find my resume [here](https://ayushbaid.github.io/resume/cv_long.pdf).
