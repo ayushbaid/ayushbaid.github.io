@@ -1,9 +1,19 @@
 ## Bio
-I have been working at Goldman Sachs for about 2 years. I received my bachelor's and master's degree in electrical engineering from [Indian Institute Of Technology Bombay](https://www.iitb.ac.in/).
+I am a first year student at Georgia Tech, pursuing MS in computer science. Specialising in machine learning, I plan to focus on deep learning and computer vision in my program.
 
-You can find my resume [here](https://ayushbaid.github.io/resume/cv_long.pdf).
+
+
+I worked at Goldman Sachs for 2 years in the cloud team of the risk division, building and managing distributed computing systems. I also gravitated towards data engineering and prediction models towards the end of my stint there.
+
+I received my bachelor's and master's degree in electrical engineering from [Indian Institute Of Technology Bombay](https://www.iitb.ac.in/), with a minor in computer science.
+
+You can find my resume [here](https://gtvault-my.sharepoint.com/:b:/g/personal/abaid9_gatech_edu/ER1MfPjk48JJnJHMbtemtGgBIkeOx69g9QuA9vl6L1nojg?e=BjYBfW). An older version of the resume is hosted [here](https://ayushbaid.github.io/resume/cv_long.pdf).
 
 ## Research
+
+#### Spatio-Temporal (4D) reconstruction of salad crops
+
+I am working with [Prof. Frank Dellaert](https://www.cc.gatech.edu/~dellaert/FrankDellaert/Frank_Dellaert/Frank_Dellaert.html) on extends the SLAM problem in the time dimension as well, enabling better monitoring and data driven decision making.  Our current status is to develop techniques which enable better feature matches in the salad images. These images have lot of repeated texture which makes it very difficult to perform matches even for a human.
 
 #### Enhancement of Laparoscopy images
 
@@ -19,12 +29,12 @@ I have done projects in areas like computer vision, medical image processing, an
 
 Here are some of the work I have done:
 
-1. Medical Image Processing: studied various imaging techniques like CT-scan and MRI, and implemented algorithms to denoise, segment, etc. ([Summary](https://ayushbaid.github.io/mip_iitb/))
+1. Medical Image Processing: studied various imaging techniques like CT-scan and MRI, and implemented algorithms to de-noise, segment, etc. ([Summary](https://ayushbaid.github.io/mip_iitb/))
 2. Computer Vision: learnt and implemented algorithms for image registration, segmentation, classification, and basic compressed sensing techniques. ([Summary](https://ayushbaid.github.io/cv_iitb/))
 
 
 
-## Data analytics
+## Data Analytics
 
 Data is the key to unlock new insights, and validate hypothesis we might be holding since a long time.
 
