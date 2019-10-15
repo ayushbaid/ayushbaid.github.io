@@ -7,11 +7,17 @@ I received my bachelor's and master's degree in electrical engineering from [Ind
 
 You can find my resume [here](https://gtvault-my.sharepoint.com/:b:/g/personal/abaid9_gatech_edu/ER1MfPjk48JJnJHMbtemtGgBIkeOx69g9QuA9vl6L1nojg?e=BjYBfW). An older version of the resume is hosted [here](https://ayushbaid.github.io/resume/cv_long.pdf).
 
+## Contact and Links
+
+* Email: [ayushrakeshbaid@gmail.com](mailto:ayushrakeshbaid@gmail.com)
+* [Github](https://github.com/ayushbaid)
+* [LinkedIn](https://linkedin.com/in/ayushrb)
+
 ## Research
 
 #### Spatio-Temporal (4D) reconstruction of salad crops
 
-I am working with [Prof. Frank Dellaert](https://www.cc.gatech.edu/~dellaert/FrankDellaert/Frank_Dellaert/Frank_Dellaert.html) on extends the SLAM problem in the time dimension as well, enabling better monitoring and data driven decision making.  Our current status is to develop techniques which enable better feature matches in the salad images. These images have lot of repeated texture which makes it very difficult to perform matches even for a human.
+I am working with [Prof. Frank Dellaert](https://www.cc.gatech.edu/~dellaert/FrankDellaert/Frank_Dellaert/Frank_Dellaert.html) on extends the SLAM problem in the time dimension, enabling better monitoring and data driven decision making.  Our current status is to develop techniques which enable better feature matches in the salad images. These images have lot of repeated texture which makes it very difficult to perform matches even for a human.
 
 #### Enhancement of Laparoscopy images
 
@@ -25,10 +31,11 @@ A graphical abstract is hosted [here](./iitb_thesis/Graphical_abstract.pdf). We 
 
 I have done projects in areas like computer vision, medical image processing, and machine learning.
 
-Here are some of the work I have done:
+Here are some of the work I have done/am currently doing:
+1. **Music Audio Compression**: I am currently working on developing a deep learning system which can learn the latent space of music audio, and that will help us compress it. This domain as a short-term and long-term temporal relationships (like beats/riffs) which pose a challenge to compress it. We also plan to analyse the latent space to see if it can improve the genre and timeframe-of-release predictions. The project proposal is hosted [here](https://gtvault-my.sharepoint.com/:w:/g/personal/abaid9_gatech_edu/EdA7qg-UtqpJjhKPANqKHnQBlbTDqJYuR2xVzoCIrSKEAA?e=ZrhZcE).
 
-1. Medical Image Processing: studied various imaging techniques like CT-scan and MRI, and implemented algorithms to de-noise, segment, etc. ([Summary](https://ayushbaid.github.io/mip_iitb/))
-2. Computer Vision: learnt and implemented algorithms for image registration, segmentation, classification, and basic compressed sensing techniques. ([Summary](https://ayushbaid.github.io/cv_iitb/))
+1. **Medical Image Processing**: studied various imaging techniques like CT-scan and MRI, and implemented algorithms to de-noise, segment, etc. ([Summary](https://ayushbaid.github.io/mip_iitb/))
+2. **Computer Vision**: learnt and implemented algorithms for image registration, segmentation, classification, and basic compressed sensing techniques. ([Summary](https://ayushbaid.github.io/cv_iitb/))
 
 
 
@@ -36,7 +43,7 @@ Here are some of the work I have done:
 
 Data is the key to unlock new insights, and validate hypothesis we might be holding since a long time.
 
-Currently, I am working on characterising the competitiveness of different football leagues.  European football has five big leagues: English, Spanish, German, French, and Italian. You can find the work [here](https://ayushbaid.github.io/football_stats).
+Currently, I wrote a short script to gain some insights on the competitiveness of different football leagues.  European football has five big leagues: English, Spanish, German, French, and Italian. You can find the work [here](https://ayushbaid.github.io/football_stats).
 
 
 
