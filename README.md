@@ -8,12 +8,6 @@ I received my bachelor's and master's degree in electrical engineering from [Ind
 
 You can find my resume [here](https://gtvault-my.sharepoint.com/:b:/g/personal/abaid9_gatech_edu/ER1MfPjk48JJnJHMbtemtGgBIkeOx69g9QuA9vl6L1nojg?e=BjYBfW). An older version of the resume is hosted [here](https://ayushbaid.github.io/resume/cv_long.pdf).
 
-
-
-**Table of content**
-
-[TOC]
-
 ## Contact and Links
 
 * Email: [ayushrakeshbaid@gmail.com](mailto:ayushrakeshbaid@gmail.com)
