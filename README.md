@@ -1,4 +1,5 @@
 ## Bio
+
 I am a first year student at Georgia Tech, pursuing MS in computer science. Specialising in machine learning, I plan to focus on deep learning and computer vision in my program.
 
 I worked at Goldman Sachs for 2 years in the cloud team of the risk division, building and managing distributed computing systems. I also gravitated towards data engineering and prediction models towards the end of my stint there.
@@ -6,6 +7,12 @@ I worked at Goldman Sachs for 2 years in the cloud team of the risk division, bu
 I received my bachelor's and master's degree in electrical engineering from [Indian Institute Of Technology Bombay](https://www.iitb.ac.in/), with a minor in computer science.
 
 You can find my resume [here](https://gtvault-my.sharepoint.com/:b:/g/personal/abaid9_gatech_edu/ER1MfPjk48JJnJHMbtemtGgBIkeOx69g9QuA9vl6L1nojg?e=BjYBfW). An older version of the resume is hosted [here](https://ayushbaid.github.io/resume/cv_long.pdf).
+
+
+
+**Table of content**
+
+[TOC]
 
 ## Contact and Links
 
