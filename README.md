@@ -38,7 +38,7 @@ I have done projects in areas like computer vision, medical image processing, an
 
 Here are some of the work I have done/am currently doing:
 1. **Music Audio Compression**: I am currently working on developing a deep learning system which can learn the latent space of music audio, and that will help us compress it. This domain as a short-term and long-term temporal relationships (like beats/riffs) which pose a challenge to compress it. We also plan to analyse the latent space to see if it can improve the genre and timeframe-of-release predictions. The project website with demos is hosted [here](https://pgrady3.github.io/music-compression-web/).
-2. **Sunny-cloudy image translation using cycle-GANs**: We used cycle-GANs with some modifications in the generator-discriminator architecture and introduced a new content similarity loss to perform image translation between these two classes. The report is hosted [here](./reports/SP_fall19_report.pdf). 
+2. **Sunny-cloudy image translation using cycle-GANs**: We used cycle-GANs with some modifications in the generator-discriminator architecture and introduced a new content similarity loss to perform image translation between these two classes. The report is hosted [here](./reports/cycle-gans.pdf). 
 3. **Medical Image Processing**: studied various imaging techniques like CT-scan and MRI, and implemented algorithms to de-noise, segment, etc. ([Summary](https://ayushbaid.github.io/mip_iitb/))
 4. **Computer Vision**: learnt and implemented algorithms for image registration, segmentation, classification, and basic compressed sensing techniques. ([Summary](https://ayushbaid.github.io/cv_iitb/))
 
