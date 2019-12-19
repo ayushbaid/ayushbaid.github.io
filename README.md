@@ -20,6 +20,10 @@ You can find my resume [here](https://gtvault-my.sharepoint.com/:b:/g/personal/a
 
 I am working with [Prof. Frank Dellaert](https://www.cc.gatech.edu/~dellaert/FrankDellaert/Frank_Dellaert/Frank_Dellaert.html) on extends the SLAM problem in the time dimension, enabling better monitoring and data driven decision making.  Our current status is to develop techniques which enable better feature matches in the salad images. These images have lot of repeated texture which makes it very difficult to perform matches even for a human.
 
+The report of my work in Fall 2019 is hosted [here](./reports/SP_fall19_report.pdf).
+
+
+
 #### Enhancement of Laparoscopy images
 
 I was a part of the [ViGIL](https://www.cse.iitb.ac.in/graphics/doku.php?id=start) research group at IIT Bombay, where I pursued my thesis under the guidance of  [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash/) and [Prof. Shabbir Merchant](https://www.ee.iitb.ac.in/wiki/faculty/merchant/). We worked on removing random noise, surgical smoke, and speckles from the laparoscopy images. These corruptions perturb the texture and color of the organs, and make the surgical experience unpleasant, and reduce the efficacy of automated algorithms. We modelled the system using Markov random fields, and designed potential functions using color distribution priors and dictionary priors (to model texture). We used variational Bayesian factorization to make the optimization tractable using expectation-maximization (EM) algorithm. 
@@ -33,8 +37,8 @@ A graphical abstract is hosted [here](./iitb_thesis/Graphical_abstract.pdf). We 
 I have done projects in areas like computer vision, medical image processing, and machine learning.
 
 Here are some of the work I have done/am currently doing:
-1. **Music Audio Compression**: I am currently working on developing a deep learning system which can learn the latent space of music audio, and that will help us compress it. This domain as a short-term and long-term temporal relationships (like beats/riffs) which pose a challenge to compress it. We also plan to analyse the latent space to see if it can improve the genre and timeframe-of-release predictions. The project proposal is hosted [here](https://gtvault-my.sharepoint.com/:w:/g/personal/abaid9_gatech_edu/EdA7qg-UtqpJjhKPANqKHnQBlbTDqJYuR2xVzoCIrSKEAA?e=ZrhZcE).
-2. **Sunny-cloudy image translation using cycle-GANs**: We used cycle-GANs with some modifications in the generator-discriminator architecture and introduced a new content similarity loss to perform image translation between these two classes. The report is hosted [here](https://ayushbaid.github.io/cloudy-cycle-gans/report/report.pdf). 
+1. **Music Audio Compression**: I am currently working on developing a deep learning system which can learn the latent space of music audio, and that will help us compress it. This domain as a short-term and long-term temporal relationships (like beats/riffs) which pose a challenge to compress it. We also plan to analyse the latent space to see if it can improve the genre and timeframe-of-release predictions. The project website with demos is hosted [here](https://pgrady3.github.io/music-compression-web/).
+2. **Sunny-cloudy image translation using cycle-GANs**: We used cycle-GANs with some modifications in the generator-discriminator architecture and introduced a new content similarity loss to perform image translation between these two classes. The report is hosted [here](./reports/SP_fall19_report.pdf). 
 3. **Medical Image Processing**: studied various imaging techniques like CT-scan and MRI, and implemented algorithms to de-noise, segment, etc. ([Summary](https://ayushbaid.github.io/mip_iitb/))
 4. **Computer Vision**: learnt and implemented algorithms for image registration, segmentation, classification, and basic compressed sensing techniques. ([Summary](https://ayushbaid.github.io/cv_iitb/))
 
