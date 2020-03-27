@@ -8,11 +8,15 @@ I received my bachelor's and master's degree in electrical engineering from [Ind
 
 You can find my resume [here](https://gtvault-my.sharepoint.com/:b:/g/personal/abaid9_gatech_edu/ER1MfPjk48JJnJHMbtemtGgBIkeOx69g9QuA9vl6L1nojg?e=BjYBfW). An older version of the resume is hosted [here](https://ayushbaid.github.io/resume/cv_long.pdf).
 
+<hr>
+
 ## Contact and Links
 
 * Email: [ayushrakeshbaid@gmail.com](mailto:ayushrakeshbaid@gmail.com)
 * [Github](https://github.com/ayushbaid)
 * [LinkedIn](https://linkedin.com/in/ayushrb)
+
+<hr>
 
 ## Research
 
@@ -30,7 +34,7 @@ I was a part of the [ViGIL](https://www.cse.iitb.ac.in/graphics/doku.php?id=star
 
 A graphical abstract is hosted [here](./iitb_thesis/Graphical_abstract.pdf). We had an oral presentation at [IEEE ISBI](https://biomedicalimaging.org/2019/) 2017 ([paper](https://ieeexplore.ieee.org/abstract/document/7950623)). The full thesis can be found [here](./iitb_thesis/thesis.pdf). I was awarded the Undergraduate Research Award 03 (URA-03) for my work.
 
-
+<hr>
 
 ## Academic Projects
 
@@ -42,7 +46,7 @@ Here are some of the work I have done/am currently doing:
 3. **Medical Image Processing**: studied various imaging techniques like CT-scan and MRI, and implemented algorithms to de-noise, segment, etc. ([Summary](https://ayushbaid.github.io/mip_iitb/))
 4. **Computer Vision**: learnt and implemented algorithms for image registration, segmentation, classification, and basic compressed sensing techniques. ([Summary](https://ayushbaid.github.io/cv_iitb/))
 
-
+<hr>
 
 ## Data Analytics
 
