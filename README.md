@@ -1,4 +1,4 @@
-## Bio
+# Bio
 
 I am a first year student at Georgia Tech, pursuing MS in computer science. Specialising in machine learning, I plan to focus on deep learning and computer vision in my program.
 
@@ -10,7 +10,7 @@ You can find my resume [here](https://gtvault-my.sharepoint.com/:b:/g/personal/a
 
 <hr>
 
-## Contact and Links
+# Contact and Links
 
 * Email: [ayushrakeshbaid@gmail.com](mailto:ayushrakeshbaid@gmail.com)
 * [Github](https://github.com/ayushbaid)
@@ -18,17 +18,16 @@ You can find my resume [here](https://gtvault-my.sharepoint.com/:b:/g/personal/a
 
 <hr>
 
-## Research
+# Research
 
-#### Spatio-Temporal (4D) reconstruction of salad crops
+## Spatio-Temporal (4D) reconstruction of salad crops
 
 I am working with [Prof. Frank Dellaert](https://www.cc.gatech.edu/~dellaert/FrankDellaert/Frank_Dellaert/Frank_Dellaert.html) on extends the SLAM problem in the time dimension, enabling better monitoring and data driven decision making.  Our current status is to develop techniques which enable better feature matches in the salad images. These images have lot of repeated texture which makes it very difficult to perform matches even for a human.
 
 The report of my work in Fall 2019 is hosted [here](./reports/SP_fall19_report.pdf).
 
 
-
-#### Enhancement of Laparoscopy images
+## Enhancement of Laparoscopy images
 
 I was a part of the [ViGIL](https://www.cse.iitb.ac.in/graphics/doku.php?id=start) research group at IIT Bombay, where I pursued my thesis under the guidance of  [Prof. Suyash Awate](https://www.cse.iitb.ac.in/~suyash/) and [Prof. Shabbir Merchant](https://www.ee.iitb.ac.in/wiki/faculty/merchant/). We worked on removing random noise, surgical smoke, and speckles from the laparoscopy images. These corruptions perturb the texture and color of the organs, and make the surgical experience unpleasant, and reduce the efficacy of automated algorithms. We modelled the system using Markov random fields, and designed potential functions using color distribution priors and dictionary priors (to model texture). We used variational Bayesian factorization to make the optimization tractable using expectation-maximization (EM) algorithm. 
 
@@ -36,7 +35,7 @@ A graphical abstract is hosted [here](./iitb_thesis/Graphical_abstract.pdf). We 
 
 <hr>
 
-## Academic Projects
+# Academic Projects
 
 I have done projects in areas like computer vision, medical image processing, and machine learning.
 
@@ -48,11 +47,8 @@ Here are some of the work I have done/am currently doing:
 
 <hr>
 
-## Data Analytics
+# Data Analytics
 
 Data is the key to unlock new insights, and validate hypothesis we might be holding since a long time.
 
 Currently, I wrote a short script to gain some insights on the competitiveness of different football leagues.  European football has five big leagues: English, Spanish, German, French, and Italian. You can find the work [here](https://ayushbaid.github.io/football_stats).
-
-
-
