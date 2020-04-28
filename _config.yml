@@ -1,6 +1,7 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 title: Ayush Baid
 description: GaTech | IIT Bombay
+show_downloads: "false"
 plugins:
   - jekyll-seo-tag
   
