@@ -17,8 +17,17 @@ You can find my resume [here](https://gtvault-my.sharepoint.com/:b:/g/personal/a
 * [LinkedIn](https://linkedin.com/in/ayushrb)
 
 <hr>
-
 # Research
+
+## Evaluation of deep-learning based and hand-crafted front ends for SLAM and SfM
+
+Paper coming soon.
+
+
+
+Short report for Spring 2020 is hosted [here](./reports/MSProject_Spring20.pdf).
+
+
 
 ## Spatio-Temporal (4D) reconstruction of salad crops
 
@@ -40,6 +49,29 @@ A graphical abstract is hosted [here](./iitb_thesis/Graphical_abstract.pdf). We 
 I have done projects in areas like computer vision, medical image processing, and machine learning.
 
 Here are some of the work I have done/am currently doing:
+
+
+
+## Reddit Auto-Moderation by Evaluating Community Opinion
+
+[Report](./reports/rco.pdf)
+
+
+
+## Sleep Stage Prediction using Transformers
+
+[Report](./reports/sleepStage.pdf)
+
+
+
+## Bayesian Deep Learning Survey
+
+[Report](./reports/bayesianLearning.pdf)
+
+
+
+
+
 ## Music Audio Compression
 
  I am currently working on developing a deep learning system which can learn the latent space of music audio, and that will help us compress it. This domain as a short-term and long-term temporal relationships (like beats/riffs) which pose a challenge to compress it. We also plan to analyse the latent space to see if it can improve the genre and timeframe-of-release predictions. The project website with demos is hosted [here](https://pgrady3.github.io/music-compression-web/).
@@ -47,6 +79,14 @@ Here are some of the work I have done/am currently doing:
 ## Sunny-cloudy image translation using cycle-GANs
 
  We used cycle-GANs with some modifications in the generator-discriminator architecture and introduced a new content similarity loss to perform image translation between these two classes. The report is hosted [here](./reports/cycle-gans.pdf). 
+
+
+
+Samples results: For each image pair, the left image is the input cloudy image and the right image is the translated sunny image. Although the results have artifacts, the model has associated certain colors like blue with sky, and yellow/green with plants. Note that all the images have been contrast stretched to the same level.
+
+![Cloudy2SunnyExample](./assets/sunnyCloudy.png)
+
+
 
 ## Medical Image Processing
 
