@@ -11,7 +11,7 @@ title                    : "Ayush Baid / Personal Website"
 title_separator          : "-"
 name                     : &name "Ayush Baid"
 description              : &description "personal description"
-url                      : https://ayushbaid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ayushbaid/ayushbaid.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ayush Baid"
   avatar           : "mypic.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "MS student @ Georgia Tech"
   location         : "Atlanta, GA"
   employer         :
   pubmed           :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :    
+  facebook         : "ayush.r.b"
   foursquare       :
   github           : "ayushbaid"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "ayushrb"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -175,19 +175,15 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
-  publications:
+  projects:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  work:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -209,41 +205,33 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _work
   - scope:
       path: ""
-      type: teaching
+      type: work
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _publications
+      share: false
+      comment: false
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
+      share: false
+      comment: false
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+      share: false
+      comment: false
 
 # Sass/SCSS
 sass:
