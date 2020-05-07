@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version - [link](files/resume.pdf)
+PDF version - [link](/files/resume.pdf)
 
 Markdown version is coming up soon
