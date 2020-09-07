@@ -30,6 +30,8 @@ Markdown Version:
 #### May 2015 - Jul 2015, Tokyo
 * Developed an online Android app testing service to support configurable virtual devices instead of physical devices
 
+___
+
 # Key Projects
 
 ## GTSFM: Scalable Structure-From-Motion Pipeline
@@ -58,6 +60,8 @@ Markdown Version:
 ## FOSSEE Scilab Toolbox
 #### Dec 2015 - Jan 2017
 * Developed and tested signal processing functions for signal processing toolbox, emulating the MATLAB’s API
+
+___
 
 # Publications
 * Baid, Ayush, et al. "Joint desmoking, specularity removal, and denoising of laparoscopy images via graphical models
