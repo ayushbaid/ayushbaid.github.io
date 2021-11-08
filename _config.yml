@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ayush Baid"
   avatar           : "mypic.jpeg"
-  bio              : "MS student @ Georgia Tech"
-  location         : "Atlanta, GA"
+  bio              : "SDE @ Amazon"
+  location         : "Seattle, WA"
   employer         :
   pubmed           :
   googlescholar    : 
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "ayush.r.b"
+  facebook         :
   foursquare       :
   github           : "ayushbaid"
   google_plus      :

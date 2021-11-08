@@ -1,9 +1,8 @@
 ---
-title: "Competition in European Soccer Leagues"
-excerpt: "Quantify the competitiveness of the leagues"
+title: "Bayesian Deep Learning Survey"
+excerpt: "A survey of few methods and some experiments which use Bayesian methods to study the uncertainties in deep networks"
 collection: projects
 ---
 
-
-Currently, I wrote a short script to gain some insights on the competitiveness of different football leagues.  European football has five big leagues: English, Spanish, German, French, and Italian. You can find the work [here](https://ayushbaid.github.io/football_stats).
+[Report](/files/bayesianLearning.pdf)
 
