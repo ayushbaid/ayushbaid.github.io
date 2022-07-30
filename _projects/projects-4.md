@@ -1,8 +1,15 @@
 ---
-title: "Music Audio Compression"
-excerpt: "Compression directly on the temporal input using CNN based Autoencoders without frequency domain conversion"
+title: "Cloudy to Sunny Image Conversion"
+excerpt: "Cycle-GAN based network to perform image translation with an additional content similarity loss"
 collection: projects
 ---
 
-We developed a deep learning system which can learn the latent space of music audio, and that will help us compress it. This domain has short-term and long-term temporal relationships (like beats/riffs) which pose a challenge to compress it. We also leverage the compressed latent space to predict the genre of music. The project website with demos is hosted [here](https://pgrady3.github.io/music-compression-web/).
+
+ We used cycle-GANs with some modifications in the generator-discriminator architecture and introduced a new content similarity loss to perform image translation between these two classes. The report is hosted [here](/files/cycle-gans.pdf). 
+
+
+
+Samples results: For each image pair, the left image is the input cloudy image and the right image is the translated sunny image. Although the results have artifacts, the model has associated certain colors like blue with sky, and yellow/green with plants. Note that all the images have been contrast stretched to the same level.
+
+![Cloudy2SunnyExample](/images/sunnyCloudy.png)
 

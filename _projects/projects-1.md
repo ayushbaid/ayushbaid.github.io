@@ -1,8 +1,14 @@
 ---
-title: "Reddit Auto-Moderation by Evaluating Community Opinion"
-excerpt: "Using cutting-edge NLP models to learn sentence completion on comments and then deploy them to complete phrases designed by moderators"
+title: "3D object detection from arbitrary rigs of RGB-only cameras"
+excerpt: "Object detection from RGB camera rigs, which are a common occurance on autonomous vehicles"
 collection: projects
 ---
 
-[Report](/files/rco.pdf)
+We develop an RGB-only network to perform 3D object detection, and then try to improve the performance by using LiDAR only during training.
+
+Our approach:
+![3dDetApproach](/images/3d_detection/workflow.png)
+![3dDetArchitecture](/images/3d_detection/network_RGB_PI.png)
+
+[Report](/files/3d_detection/report.pdf)
 

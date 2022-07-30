@@ -1,15 +1,9 @@
 ---
-title: "Cloudy to Sunny Image Conversion"
-excerpt: "Cycle-GAN based network to perform image translation with an additional content similarity loss"
+title: "Sleep Stage Prediction using Transformers"
+excerpt: "Predict the sleep stage from EEG signals using a deep network of CNN+Transformers"
 collection: projects
 ---
+We propose a novel deep learning architecture on a single EEG channel using CNNs to extract features and Transformers to leverage neighboring temporal context to predict sleep stage label (Wake, REM, etc).
 
-
- We used cycle-GANs with some modifications in the generator-discriminator architecture and introduced a new content similarity loss to perform image translation between these two classes. The report is hosted [here](/files/cycle-gans.pdf). 
-
-
-
-Samples results: For each image pair, the left image is the input cloudy image and the right image is the translated sunny image. Although the results have artifacts, the model has associated certain colors like blue with sky, and yellow/green with plants. Note that all the images have been contrast stretched to the same level.
-
-![Cloudy2SunnyExample](/images/sunnyCloudy.png)
+[Report](/files/sleepStage.pdf)
 
